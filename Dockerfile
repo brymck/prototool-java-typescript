@@ -1,4 +1,4 @@
-FROM uber/prototool
+FROM uber/prototool:1.8.1
 
 RUN \
     # Install custom packages
